@@ -1,1 +1,1 @@
-POSTGRE_URI = 'postgresql://postgres:gfhfif777@127.0.0.1:5432/netology_aiohttp'
+POSTGRE_URI = 'postgresql://username:password@host:port/db_name'
